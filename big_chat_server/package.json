@@ -1,0 +1,11 @@
+{
+  "name": "bigchat",
+  "version": "1.0.0",
+  "description": "chat application for big screens :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aR chaudhary",
+  "license": "ISC"
+}
